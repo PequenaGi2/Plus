@@ -1,0 +1,419 @@
+
+@media screen and (max-width: 768px) {
+    body {
+      background-image: url(img/Captura\ de\ tela\ 2024-09-27\ 043153.jpg);
+      background-size: 100% auto;
+    }
+  }
+
+
+* {
+    margin: 0;
+    padding: 0;
+    
+
+}
+
+header{
+    
+    text-align: right;
+    font-family:Helvetica; 
+    background: linear-gradient(to left, rgba(0, 0, 0, 0.962), rgba(0, 0, 0, 0.959), rgba(2, 2, 2, 0.800),transparent, black),
+    url(img/Dickinson.jpeg.jpeg),
+    url(img/Gaviao\ arqueiro.jpeg),
+    url(img/Interestellar.jpeg);
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-size: contain, contain, contain;
+    background-position: right, center, left;
+    padding-right: 0px;
+    background-color: black;
+    height: 520px;
+    
+    
+}
+
+p{
+   text-align: right;
+   color:aliceblue;
+   padding-right: 130px;
+}
+
+   
+
+.topo{
+    display: flex;
+    background-color: black;
+    color: aliceblue;
+    font-weight: 400px;
+    
+    
+   
+
+}
+
+.Topo{
+    display: flex;
+    padding-left: 10px;
+    font-family: Helvetica;
+    list-style:none;
+    padding-top: 10px;
+
+
+}
+.Topo2{
+    display: flex;
+    padding-left: 80px;
+    list-style:none;
+    padding-top: 10px;
+
+}
+.Topo3{
+    display: flex;
+    padding-left: 80px;
+    font-family: Helvetica;
+    list-style:none;
+    padding-top: 10px;
+}
+.Topo4{
+    display: flex;
+    padding-left: 80px;
+    font-family: Helvetica;
+    list-style:none;
+    padding-top: 10px;
+}
+.Topo5{
+    display: flex;
+    padding-left: 80px;
+    font-family: Helvetica;
+    list-style:none;
+    padding-top: 10px;
+}
+
+.Logo{
+      height: 50px;
+      padding-left: 20px;
+      padding-right: 90px;
+      padding-top: 10px;
+}
+
+head{
+    border-top: 40px;
+    border-color: rgba(0, 0, 0, 0.808);
+}
+
+a {
+   text-decoration: none;
+   color: aliceblue;
+}
+
+.B1{
+    text-align: right;
+    padding-right: 237px;
+    padding-top: 19px;
+    padding-bottom: 20px;
+    font-family: Helvetica;
+    
+
+}
+
+.botao {
+    border: 2px solid;
+    border-radius: 10px;
+    padding: 1vh;
+    color: black;
+    margin-bottom: 1vh;
+    border-color: rgb(0, 0, 0);
+    background-color: cornflowerblue;
+    display: right;
+    
+    
+}
+
+.botao_secundario {
+    border: 2px solid;
+    border-radius: 10px;
+    padding: 1vh;
+    color: black;
+    margin-bottom: 1vh;
+    border-color: rgb(0, 0, 0);
+    background-color: lightblue;
+    align-items: right; 
+}
+
+
+
+
+
+.B2{
+    text-align: right;
+    padding-right: 212px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  
+}
+
+.li{
+    text-decoration: none;
+}
+
+.p1{
+     text-decoration: none;
+
+}
+
+
+.p2 { 
+     padding-right: 260px;
+     text-decoration:dashed;
+}
+
+.p3 {
+     padding-left: 70px;
+     padding-right: 179px;
+
+}
+
+.titulo {
+    font-size: 28px;
+    color: aliceblue;
+    text-align: right;
+    padding-right: 80px;
+    text-decoration: dashed;
+}
+
+.Dois{
+    background-color:black;
+    text-align: left;
+    height: 500px;
+    background-image: 
+            linear-gradient(to left, transparent, rgba(0, 0, 128, 0.226),rgba(0, 0, 128, 0.514),rgba(0, 0, 128, 0.637)),
+            url(img/Canais76.jpeg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    padding: 30px;
+    
+    
+    
+}
+
+
+
+.titulo2{
+      padding-left: 100px;
+      text-align: left;
+      color:aliceblue;
+      padding-top: 120px;
+      font-size: 50px;
+      font-family: Helvetica;
+      
+}
+
+
+
+.textocon3 {
+    text-align: left;
+    padding-left: 100px;
+    font-family: Helvetica;
+    font-style: italic;
+}
+
+
+.texto{
+      
+      font-size: 20px;
+      text-align: left;
+      color: aliceblue;
+      padding-left: 100px;
+      padding-top: 20px;
+      font-family: Helvetica;
+      font-style: italic;
+
+}
+
+.textocon{
+    text-align: left;
+    color:aliceblue;
+    padding-left: 100px;
+    font-style: italic;
+    font-size: 20px;
+    padding-bottom: 10px;
+    font-family: Helvetica;
+    
+
+}
+
+
+
+.Três {
+      background-color: white;
+      height: 600px;
+      background-image: url(img/DFD3.png);
+      background-repeat: no-repeat;
+      background-position: right;
+      margin-right: 60px;
+
+}
+
+
+.detexto3{
+    font-size: 30px;
+    color: black;
+    padding-top: 50px;
+    padding-left: 100px;
+    font-family: Helvetica;
+    text-align: left;
+
+}
+
+.Passo1 {
+    font-size: 30px;
+    padding-top: 90px;
+    padding-left: 130px;
+    list-style:square;
+    font-family: Helvetica;
+    text-decoration: wavy;
+
+}
+
+.Passo2 {
+    font-size: 30px;
+    padding-top: 40px;
+    padding-left: 130px;
+    list-style:square;   
+    font-family: Helvetica;
+}
+
+.Passo3 {
+    font-size: 30px;
+    padding-top: 40px;
+    padding-left: 130px;
+    list-style:square;
+    font-family: Helvetica;
+    
+}
+
+
+.Passo4 {
+    font-size: 30px;
+    padding-top: 40px;
+    padding-left: 130px;
+    list-style:square;
+    font-family: Helvetica;
+}
+
+.Cinco {
+    text-align: center;
+    height: 400px;
+    background-color: black;
+}
+
+.displista {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin: 5em 0;
+}
+
+.disptitulo {
+    font-size: 40px;
+    padding-top: 40px;
+    font-family: Helvetica;
+    color: aliceblue;
+
+    
+}
+
+.Dispositivos1{
+    height: 200px;
+    padding-right: 150px;
+    padding-left: 50px;
+    
+}
+
+.Dispositivos2{
+    height: 140px;
+    padding-right: 100px;
+    padding-top: 60px;
+   
+
+}
+
+.Dispositivos3{
+    height: 150px;
+    padding-left: 20px;
+    padding-top: 60px;
+}
+
+.Dispositivos10{
+    padding-right: 90px;
+    font-family: Helvetica;
+    color: aliceblue;
+}
+
+.Dispositivos20{
+    padding-right: 85px;
+    font-family: Helvetica;
+    color: aliceblue;
+}
+
+.Dispositivos30 {
+    font-family: Helvetica;
+    color: aliceblue;
+    padding-left: 20px;
+    
+
+}
+.rodape {
+    text-align: center;
+    color: black;
+    background-color: black;
+    
+}
+
+.rodapetexto1 {
+   
+    color:aliceblue;
+    text-align: center;
+    font-family: Helvetica;
+    padding-left: 130px;
+    font-size: 13px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: rgb(51, 51, 51);
+}
+
+
+.rodapelogo{
+      height: 40px;
+      padding-top: 80px;
+      
+      
+}
+
+.listalink {
+    text-decoration: none;
+    color:aliceblue;
+    background-color: rgb(51, 51, 51);
+    padding-right: 30px;
+    font-family: Helvetica;
+}
+
+.listalink1 {
+    text-decoration: none;
+    color:aliceblue;
+    background-color: rgb(51, 51, 51);
+    font-family: Helvetica;
+}
+
+.rodape__lista {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    background-color: rgb(51, 51, 51);
+   
+}
+
+
+
+
